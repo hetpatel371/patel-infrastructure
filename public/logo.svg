@@ -1,0 +1,7 @@
+<svg width="140" height="28" viewBox="0 0 140 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="26" height="26" rx="8" stroke="#0A0A0A" stroke-width="2"/>
+  <path d="M9 18.5V9.5H18" stroke="#0A0A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 9.5V18.5H9" stroke="#0A0A0A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="19" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#0A0A0A">Patel</text>
+  <text x="78" y="19" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" fill="#0A0A0A">Infrastructure</text>
+</svg>
